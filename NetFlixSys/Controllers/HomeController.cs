@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using NetFlixSys.Models;
+using Microsoft.Extensions.Logging;
 
 namespace NetFlixSys.Controllers;
 

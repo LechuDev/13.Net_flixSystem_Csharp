@@ -1,4 +1,5 @@
 namespace NetFlixSys.Models;
+#nullable enable
 
 public class ErrorViewModel
 {

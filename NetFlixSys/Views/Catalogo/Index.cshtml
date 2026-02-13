@@ -1,0 +1,13 @@
+@model IEnumerable<NetFlixSys.Models.Pelicula>
+
+<h2 class="text-3xl font-bold mb-4">Catálogo</h2>
+<div class="grid grid-cols-4 gap-6">
+    @foreach (var pelicula in Model)
+    {
+        <div class="bg-gray-800 p-4 rounded shadow">
+            <h3 class="text-xl font-semibold">@pelicula.Titulo</h3>
+            <p>@pelicula.Genero (@pelicula.Año)</p>
+            <a href="/Catalogo/Detalles/@pelicula.Id" class="text-blue-400">Ver detalles</a>
+        </div>
+    }
+</div>

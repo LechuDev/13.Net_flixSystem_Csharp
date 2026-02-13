@@ -1,0 +1,45 @@
+# dotenv
+.env
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Logs
+*.log
+Logs/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.rsuser
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Migrations
+Migrations/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+
+# Publish
+publish/
+*.pubxml
+*.publishproj
+
+# Others
+*.tmp
+*.pidb
+*.svclog
+*.pfx
+*.publishsettings

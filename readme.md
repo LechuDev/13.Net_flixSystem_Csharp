@@ -94,6 +94,16 @@ El sistema permite explorar un catálogo de películas, marcar favoritas y recib
 
 ---
 
+## Futuras mejoras
+
+•  📸 Imágenes de portada para cada película.
+•  🔍 Búsqueda avanzada por título, género o año.
+•  📊 Ordenamiento dinámico por puntuación, popularidad o fecha.
+•  👤 Perfiles de usuario con historial de vistas y favoritos.
+•  🎨 UI más cercana a Netflix, con carruseles y categorías.
+
+---
+
 ## 🌐 Portfolio
 
 👉 [Volver al Portfolio](https://lechudev.github.io/Porfolio)
